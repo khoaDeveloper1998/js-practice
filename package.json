@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/khoaDeveloper1998/js-practice/issues"
   },
-  "homepage": "https://github.com/khoaDeveloper1998/js-practice#readme"
+  "homepage": "https://github.com/khoaDeveloper1998/js-practice#readme",
+  "dependencies": {
+    "logger": "0.0.1"
+  }
 }
