@@ -37,19 +37,20 @@ const { log, logTitle } = require("logger");
 // console.log(0 === false);
 
 /* Map | Filter  | Reduce */
-var map = [1, 2, 3, 4, 5].map((n) => {
-  return n * 2;
-});
+// var map = [1, 2, 3, 4, 5].map((n) => {
+//   return n * 2;
+// });
 
-console.log("[].map");
-console.log(map);
+// console.log("[].map");
+// console.log(map);
 
-console.log("[].filter");
+// console.log("[].filter");
 
-let filter = [1, 2, 3, 4, 5].filter((n) => {
-  return n >= 3;
-});
+// let filter = [1, 2, 3, 4, 5].filter((n) => {
+//   return n >= 3;
+// });
 
-console.log(filter);
+// console.log(filter);
 
-console.log("[].reduce");
+// console.log("[].reduce");
+abascascasc
